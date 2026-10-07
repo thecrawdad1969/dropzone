@@ -1,6 +1,6 @@
 {
   "name": "dropzone",
-  "repo": "enyo/dropzone",
+  "repo": "thecrawdad1969/dropzone",
   "version": "5.5.0",
   "description": "Handles drag and drop of files for you.",
   "scripts": [ "index.js", "dist/dropzone.js" ],
